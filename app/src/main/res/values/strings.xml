@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EXAPARMITA_1202154292_MODUL4</string>
+    <string-array name="namaMhs">
+        <item>Aprilianti Putri</item>
+        <item>Apis Abdul Rahman</item>
+        <item>Vanessa Alana Abdul Rahman</item>
+        <item>Dayane Kamila</item>
+        <item>Kamal Ihsan Ali Syuhada</item>
+        <item>Cebolie Mowie Gemay</item>
+        <item>Shinthya Yoda</item>
+        <item>Aulia Guguk</item>
+        <item>Levie Syafiraliany</item>
+        <item>Varian Muhammad</item>
+        <item>Bimo Abdinegoro</item>
+        <item>Lala</item>
+        <item>Milo</item>
+
+    </string-array>
+</resources>
